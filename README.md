@@ -19,7 +19,10 @@ A 5-page interactive dashboard built in Power BI for ElectroHub to analyze sales
 - `Store Data.xlsx` – Source Dataset
 
 ## 📸 Dashboard Screenshots
-_Add screenshots of each page here (optional but recommended)_
+![image](https://github.com/user-attachments/assets/dd46c92a-ecdf-43e8-93e7-d06ef0dcb055)
+![image](https://github.com/user-attachments/assets/4398b8ed-2bcd-48de-8e77-c9f699d8839b)
+
+
 
 ## 🚀 How to Use
 1. Open `Project.pbix` in Power BI Desktop
